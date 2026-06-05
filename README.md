@@ -24,7 +24,7 @@ Student_Score_Predictor/
 
 ---
 
-## 📊 Dataset
+## 📊 Dataset (From kaggle dataset)
 
 The dataset contains **909 student records** with **16 features** covering academic, behavioral, and lifestyle attributes:
 
